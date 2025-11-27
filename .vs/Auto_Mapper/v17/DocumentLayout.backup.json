@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|c:\\users\\hp\\desktop\\asp.net_api\\automapper\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|solutionrelative:automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|c:\\users\\hp\\desktop\\asp.net_api\\automapper\\automapper\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|solutionrelative:automapper\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|c:\\users\\hp\\desktop\\asp.net_api\\automapper\\automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|solutionrelative:automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|c:\\users\\hp\\desktop\\asp.net_api\\automapper\\automapper\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F029F40-1D94-4ADB-AE38-D696E4CE5491}|AutoMapper\\Auto_Mapper.csproj|solutionrelative:automapper\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1898,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\MappingProfile.cs*",
+              "RelativeToolTip": "AutoMapper\\MappingProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:48:26.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "AutoMapper\\Dtos\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:53:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\Program.cs",
+              "RelativeToolTip": "AutoMapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:47:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Asp.Net_Api\\AutoMapper\\AutoMapper\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "AutoMapper\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:34:35.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
